@@ -2,7 +2,7 @@
 *Yipit Data Assessment Project – Data Cleaning, Analysis, and Visualization*
 
 ## Description
-This project replicates a **Yipit Data Data Support Specialist** assessment, analyzing Netflix Top 10 English films and reviewing a subscriber trends chart.  
+This project replicates a **Yipit Data Support Specialist** assessment, analyzing Netflix Top 10 English films and reviewing a subscriber trends chart.  
 
 **Part 1** uses **web-scraped Netflix viewership data** combined with **IMDb ratings** to:  
 - Identify the film with the most Top 10 appearances and its average weekly hours viewed.  
