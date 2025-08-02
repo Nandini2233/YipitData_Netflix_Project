@@ -45,7 +45,7 @@ Yipit Data scrapes Netflix’s Top 10 weekly and supplements it with IMDb rating
 ---
 
 ## Part 2 – Chart Review & Insights
-
+![Subscriber Trends Chart Review](https://github.com/Nandini2233/YipitData_Netflix_Project/blob/main/Chart%20for%20Q%233.png)
 ### Issues Identified
 1. **Tooltip vs Y-Axis Mismatch** – Plotted lines don’t align with their tooltip values.  
 2. **Suspicious Zero Values** – Dec 2024 shows 0 joins/cancels, likely due to missing data.  
@@ -68,9 +68,6 @@ Despite the chart flaws, joins consistently outpaced cancels in mid/late 2023, i
 ### 1. Top 10 English Films by Avg Weekly Hours Viewed
 ![Top 10 English Films by Avg Weekly Hours Viewed](https://github.com/Nandini2233/YipitData_Netflix_Project/blob/main/Top%2010%20films%20SS.png)
 
-### 2. Subscriber Trends Chart Review
-![Subscriber Trends Chart Review](images/part2_chart.png)
-
 ---
 
 ## Methodology
@@ -81,17 +78,4 @@ Despite the chart flaws, joins consistently outpaced cancels in mid/late 2023, i
 5. **Visualization** – Created bar charts with IMDb ratings as color hue to highlight quality vs popularity.  
 6. **Chart Audit** – Reviewed subscriber trends chart for accuracy and visual clarity.  
 
----
 
-## Repository Structure
-```text
-yipit-netflix-data-analysis/
-├── data/                      # Source Excel file (excluded from public repo if private)
-├── images/
-│   ├── top_10_films.png        # Visualization for Part 1
-│   └── part2_chart.png         # Visualization for Part 2
-├── src/
-│   └── analyze.py              # Main analysis script
-├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation
-└── LICENSE
