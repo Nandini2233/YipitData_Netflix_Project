@@ -66,7 +66,7 @@ Despite the chart flaws, joins consistently outpaced cancels in mid/late 2023, i
 ## Visualizations
 
 ### 1. Top 10 English Films by Avg Weekly Hours Viewed
-![Top 10 English Films by Avg Weekly Hours Viewed](images/top_10_films.png)
+![Top 10 English Films by Avg Weekly Hours Viewed](https://github.com/Nandini2233/YipitData_Netflix_Project/blob/main/Top%2010%20films%20SS.png)
 
 ### 2. Subscriber Trends Chart Review
 ![Subscriber Trends Chart Review](images/part2_chart.png)
