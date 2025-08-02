@@ -1,5 +1,5 @@
 # Netflix Top 10 English Films Analysis  
-*Yipit Data Assessment Project – Data Cleaning, Analysis, and Visualization*
+- Data Cleaning, Analysis, and Visualization*
 
 ## Description
 This project analyzing Netflix Top 10 English films and reviewing a subscriber trends chart.  
@@ -11,22 +11,6 @@ This project analyzing Netflix Top 10 English films and reviewing a subscriber t
 **Part 2** reviews a Netflix subscriber joins vs cancels chart to detect potential errors (e.g., axis mismatches, missing data) and assess whether the trends reflect positively or negatively on Netflix, with recommendations for improvement.  
 
 The dataset excludes the week of **May 22, 2022** due to incomplete `weekly_hours_viewed` data. The analysis demonstrates skills in **data cleaning, exploratory analysis, visualization, and data storytelling**—applicable across analytics, business intelligence, and investment research roles.  
-
----
-
-## Background
-**Yipit Data** is the on-demand data team for leading institutional investors, identifying, licensing, cleaning, and analyzing alternative datasets to generate actionable insights.  
-
-Netflix, Inc. is an American streaming and production company that publishes its **Top 10 titles weekly**. These are split into:  
-- Films (English)  
-- Films (Non-English)  
-- TV (English)  
-- TV (Non-English)  
-
-Yipit Data scrapes Netflix’s Top 10 weekly and supplements it with IMDb ratings, enabling deeper analysis into questions such as:  
-- Is Netflix producing engaging content?  
-- Are investments in new genres/geographies generating significant viewership?  
-- How are viewership trends influencing subscriber numbers?  
 
 ---
 
